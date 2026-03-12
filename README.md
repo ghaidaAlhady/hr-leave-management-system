@@ -216,9 +216,8 @@ These improvements would make the system more scalable and suitable for real-wor
 
 ## Author
 
-Amal Aljohani
-Information Technology Student
-
 Tarafh alakor
 Information Technology Student
 
+@iamAmalMMA
+Information Technology Student
