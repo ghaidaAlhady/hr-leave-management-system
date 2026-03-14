@@ -215,6 +215,8 @@ These improvements would make the system more scalable and suitable for real-wor
 ---
 
 ## Author
+Ghaida Hadi
+Information Technology Student
 
 Tarafh alakor
 Information Technology Student
